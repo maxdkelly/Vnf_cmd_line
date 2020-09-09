@@ -1,0 +1,220 @@
+{ "cards": [
+    {
+        "name": "Ace [hearts]",
+        "colour": "red",
+        "value": 1
+    },{
+        "name": "Ace [diamonds]",
+        "colour": "red",
+        "value": 1
+    },{
+        "name": "Ace [spades]",
+        "colour": "black",
+        "value": 1
+    },{
+        "name": "Ace [clubs]",
+        "colour": "black",
+        "value": 1
+    }, {
+        "name": "2 [hearts]",
+        "colour": "red",
+        "value": 2
+    },{
+        "name": "2 [diamonds]",
+        "colour": "red",
+        "value": 2
+    },{
+        "name": "2 [spades]",
+        "colour": "black",
+        "value": 2
+    },{
+        "name": "2 [clubs]",
+        "colour": "black",
+        "value": 2
+    }, {
+        "name": "3 [hearts]",
+        "colour": "red",
+        "value": 3
+    },{
+        "name": "3 [diamonds]",
+        "colour": "red",
+        "value": 3
+    },{
+        "name": "3 [spades]",
+        "colour": "black",
+        "value": 3
+    },{
+        "name": "3 [clubs]",
+        "colour": "black",
+        "value": 3
+    }, {
+        "name": "4 [hearts]",
+        "colour": "red",
+        "value": 4
+    },{
+        "name": "4 [diamonds]",
+        "colour": "red",
+        "value": 4
+    },{
+        "name": "4 [spades]",
+        "colour": "black",
+        "value": 4
+    },{
+        "name": "4 [clubs]",
+        "colour": "black",
+        "value": 4
+    }, {
+        "name": "5 [hearts]",
+        "colour": "red",
+        "value": 5
+    },{
+        "name": "5 [diamonds]",
+        "colour": "red",
+        "value": 5
+    },{
+        "name": "5 [spades]",
+        "colour": "black",
+        "value": 5
+    },{
+        "name": "5 [clubs]",
+        "colour": "black",
+        "value": 5
+    }, {
+        "name": "6 [hearts]",
+        "colour": "red",
+        "value": 6
+    },{
+        "name": "6 [diamonds]",
+        "colour": "red",
+        "value": 6
+    },{
+        "name": "6 [spades]",
+        "colour": "black",
+        "value": 6
+    },{
+        "name": "6 [clubs]",
+        "colour": "black",
+        "value": 6
+    }, {
+        "name": "7 [hearts]",
+        "colour": "red",
+        "value": 7
+    },{
+        "name": "7 [diamonds]",
+        "colour": "red",
+        "value": 7
+    },{
+        "name": "7 [spades]",
+        "colour": "black",
+        "value": 7
+    },{
+        "name": "7 [clubs]",
+        "colour": "black",
+        "value": 7
+    }, {
+        "name": "8 [hearts]",
+        "colour": "red",
+        "value": 8
+    },{
+        "name": "8 [diamonds]",
+        "colour": "red",
+        "value": 8
+    },{
+        "name": "8 [spades]",
+        "colour": "black",
+        "value": 8
+    },{
+        "name": "8 [clubs]",
+        "colour": "black",
+        "value": 8
+    }, {
+        "name": "9 [hearts]",
+        "colour": "red",
+        "value": 9
+    },{
+        "name": "9 [diamonds]",
+        "colour": "red",
+        "value": 9
+    },{
+        "name": "9 [spades]",
+        "colour": "black",
+        "value": 9
+    },{
+        "name": "9 [clubs]",
+        "colour": "black",
+        "value": 9
+    }, {
+        "name": "10 [hearts]",
+        "colour": "red",
+        "value": 10
+    },{
+        "name": "10 [diamonds]",
+        "colour": "red",
+        "value": 10
+    },{
+        "name": "10 [spades]",
+        "colour": "black",
+        "value": 10
+    },{
+        "name": "10 [clubs]",
+        "colour": "black",
+        "value": 10
+    }, {
+        "name": "Jack [hearts]",
+        "colour": "red",
+        "value": 11
+    },{
+        "name": "Jack [diamonds]",
+        "colour": "red",
+        "value": 11
+    },{
+        "name": "Jack [spades]",
+        "colour": "black",
+        "value": 11
+    },{
+        "name": "Jack [clubs]",
+        "colour": "black",
+        "value": 11
+    }, {
+        "name": "Queen [hearts]",
+        "colour": "red",
+        "value": 12
+    },{
+        "name": "Queen [diamonds]",
+        "colour": "red",
+        "value": 12
+    },{
+        "name": "Queen [spades]",
+        "colour": "black",
+        "value": 12
+    },{
+        "name": "Queen [clubs]",
+        "colour": "black",
+        "value": 12
+    }, {
+        "name": "King [hearts]",
+        "colour": "red",
+        "value": 13
+    },{
+        "name": "King [diamonds]",
+        "colour": "red",
+        "value": 13
+    },{
+        "name": "King [spades]",
+        "colour": "black",
+        "value": 13
+    },{
+        "name": "King [clubs]",
+        "colour": "black",
+        "value": 13
+    },{
+        "name": "Joker [red]",
+        "colour": "red",
+        "value": 0
+    },{
+        "name": "Joker [black]",
+        "colour": "black",
+        "value": 0
+    }
+    ]
+}
